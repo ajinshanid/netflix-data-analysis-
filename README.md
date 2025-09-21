@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a basic exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, which contains information about movies and TV shows available on Netflix. The analysis is performed in a Jupyter Notebook and includes data loading, data cleaning, visualization, and some key insights into the distribution of content types, genres, and countries represented on Netflix.
+This project provides a basic exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset, which contains information about movies and TV shows available on Netflix. The analysis is performed in a Jupyter Notebook and includes data loading, data cleaning, visualization, and some key insights into the distribution of content types and countries represented on Netflix.
 
 ## Dataset
 
@@ -32,7 +32,6 @@ This project provides a basic exploratory data analysis (EDA) of the Netflix Mov
     - Inspect the first few rows, understand the schema and check for remaining missing values
 5. **Visualizations**
     - Content Type Distribution: Bar chart (Movies vs TV Shows)
-    - Top 10 Genres: Pie chart of most common genres
     - Top 10 Countries: Horizontal bar chart of countries with the most content
 
 
@@ -55,4 +54,4 @@ This project provides a basic exploratory data analysis (EDA) of the Netflix Mov
 
 ## Summary
 
-This project provides a beginner-friendly analysis of the Netflix Movies and TV Shows dataset using Python. The Jupyter notebook walks through essential data cleaning steps to handle missing values and inconsistencies, ensuring a reliable foundation for analysis. It explores content types, popular genres, and the countries most represented on Netflix. Designed to be accessible and practical, this project serves as a strong starting point for deeper data exploration or more advanced data science work.
+This project provides a beginner-friendly analysis of the Netflix Movies and TV Shows dataset using Python. The Jupyter notebook walks through essential data cleaning steps to handle missing values and inconsistencies, ensuring a reliable foundation for analysis. It explores content types, popular genres, and the countries most represented on Netflix.
